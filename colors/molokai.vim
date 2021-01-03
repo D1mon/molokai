@@ -106,7 +106,7 @@ hi Visual                        guibg=#403D3D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
-hi TabLineFill     guifg=#1B1D1E guibg=#1B1D1E
+hi TabLineFill     guifg=#808080 guibg=#403D3D
 hi TabLine         guibg=#1B1D1E guifg=#808080 gui=none
 
 if s:molokai_original == 1
